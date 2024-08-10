@@ -1,0 +1,64 @@
+version: 1.2
+notebooks:
+  - name: Reasoning_tutorial
+    path: /1_reasoning/Reasoning_tutorial.ipynb
+    readMePath: /1_reasoning/README.md
+    topic: A tutorial on reasoning with examples.
+    publish: True
+    format: JUPYTER
+    language: PYTHON
+    authors:
+      - name: Nemanja Rakićević
+  
+  - name: Reasoning_tutorial_solution
+    path: /1_reasoning/Reasoning_tutorial_solution.ipynb
+    readMePath: /1_reasoning/README.md
+    topic: A solution notebook for the reasoning tutorial.
+    publish: True
+    format: JUPYTER
+    language: PYTHON
+    authors:
+      - name: Nemanja Rakićević
+  
+  - name: RL_tutorial
+    path: /2_reinforcement_learning/RL_tutorial.ipynb
+    readMePath: /2_reinforcement_learning/README.md
+    topic: A tutorial on reinforcement learning.
+    publish: True
+    format: JUPYTER
+    language: PYTHON
+    authors:
+      - name: Nemanja Rakićević
+  
+  - name: RL_tutorial_solution
+    path: /2_reinforcement_learning/RL_tutorial_solution.ipynb
+    readMePath: /2_reinforcement_learning/README.md
+    topic: A solution notebook for the reinforcement learning tutorial.
+    publish: True
+    format: JUPYTER
+    language: PYTHON
+    authors:
+      - name: Nemanja Rakićević
+  
+  - name: VLM_tutorial
+    path: /3_vision_language_models/VLM_tutorial.ipynb
+    readMePath: /3_vision_language_models/README.md
+    topic: A tutorial on vision-language models.
+    publish: True
+    format: JUPYTER
+    language: PYTHON
+    authors:
+      - name: Nemanja Rakićević
+  
+  - name: VLM_tutorial_solution
+    path: /3_vision_language_models/VLM_tutorial_solution.ipynb
+    readMePath: /3_vision_language_models/README.md
+    topic: A solution notebook for the vision-language models tutorial.
+    publish: True
+    format: JUPYTER
+    language: PYTHON
+    authors:
+      - name: Nemanja Rakićević
+  
+  - name: GDL_tutorial
+    path: /4_geometric_deep_learning/GDL_tutorial.ipynb
